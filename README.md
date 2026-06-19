@@ -94,6 +94,7 @@ Start Menu Styler mod. The following themes are available:
 | Link | Screenshot
 | ---- | ----------
 | [TranslucentStartMenu](Themes/TranslucentStartMenu/README.md) | [![TranslucentStartMenu](Themes/TranslucentStartMenu/screenshot-small.png)](Themes/TranslucentStartMenu/screenshot.png)
+| [MinimalPinnedOnly](Themes/MinimalPinnedOnly/README.md) | [![MinimalPinnedOnly](Themes/MinimalPinnedOnly/screenshot-small.png)](Themes/MinimalPinnedOnly/screenshot.png)
 | [NoRecommendedSection](Themes/NoRecommendedSection/README.md) | [![NoRecommendedSection](Themes/NoRecommendedSection/screenshot-small.png)](Themes/NoRecommendedSection/screenshot.png)
 | [SideBySide](Themes/SideBySide/README.md) | [![SideBySide](Themes/SideBySide/screenshot-small.png)](Themes/SideBySide/screenshot.png)
 | [SideBySide2](Themes/SideBySide2/README.md) | [![SideBySide2](Themes/SideBySide2/screenshot-small.png)](Themes/SideBySide2/screenshot.png)
